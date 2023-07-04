@@ -16,3 +16,5 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 print('加入一個測試字串')
+
+print('加入一個測試字串123456789')
