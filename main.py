@@ -19,4 +19,10 @@ print('加入一個測試字串')
 
 print('加入一個測試字串123456789')
 
-print('Commit tool window如何開啟?')
+print('Commit tool window 如何開啟?')
+
+# TODO
+# FIXME
+
+print('commit amend')
+print('commit amend2')
